@@ -1,3 +1,0 @@
-model_checkpoint_path: "tv.ckpt"
-all_model_checkpoint_paths: "..\\save"
-all_model_checkpoint_paths: "tv.ckpt"
